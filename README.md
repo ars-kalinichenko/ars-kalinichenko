@@ -36,4 +36,4 @@
 [![Vk Badge](https://img.shields.io/badge/-Vkontakte-0088cc?style=flat&logo=VK&logoColor=white)](https://vk.com/bestelde_chaos)
 [![Hh Badge](https://img.shields.io/badge/-HeadHunter-0088cc?style=flat&logo=Hypothesis&logoColor=white&color=red)](https://omsk.hh.ru/resume/6a0246a5ff083b589f0039ed1f6f354178306d)
 [![Dribbble Badge](https://img.shields.io/badge/-Dribbble-0088cc?style=flat&logo=Dribbble&logoColor=white&color=blueviolet)](https://dribbble.com/ars-kalinichenko)
-[![Email Badge](https://img.shields.io/badge/-Email-0088cc?style=flat&logo=Gmail&logoColor=white&color=red)](mailto:ars.kalinichenko@gmail.com)
+[![Email Badge](https://img.shields.io/badge/-Email-0088cc?style=flat&logo=Gmail&logoColor=white&color=red)](https://ars.kalinichenko@gmail.com)
