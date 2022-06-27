@@ -26,9 +26,7 @@
 ## About me :
 * 🇷🇺 I'm from Russia
 * 🤺 Fencer
-* 👨‍🏫 Omsk State University: **(2020-2024)**
-* 🔭 I’m currently working on: **Recommendation systems && Mobile apps**
-* 🌱 I’m currently learning: **Rust, Flutter**  
+* 👨‍🏫 Omsk State University: **(2020-2022)**
 <br></br>
 ## To contact me:
 
