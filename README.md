@@ -24,7 +24,7 @@
 <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgresql"></code>
 <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" alt="grafana"></code>
 <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" alt="docker"></code>
-<code><img height="50" src="./rabbitmq.svg" alt="rabbitmq"></code>
+<code><img height="50" src="./rabbitmq-logo-svgrepo-com.svg" alt="rabbitmq"></code>
 
 
 <br></br>
