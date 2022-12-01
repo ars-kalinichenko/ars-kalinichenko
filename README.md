@@ -19,7 +19,7 @@
 <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="kotlin"></code>
 <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" alt="android"></code>
 
-<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" alt="rust"></code>
+<code><img height="50" src="./ferris_rust.svg" alt="rust"></code>
 
 <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgresql"></code>
 <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" alt="grafana"></code>
