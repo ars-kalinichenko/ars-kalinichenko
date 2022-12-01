@@ -13,6 +13,7 @@
 
 <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python"></code>
 <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" alt="jupyter"></code>
+<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="django"></code>
 
 <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="flutter"></code>
 <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="kotlin"></code>
@@ -21,6 +22,10 @@
 <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" alt="rust"></code>
 
 <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgresql"></code>
+<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" alt="grafana"></code>
+<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" alt="docker"></code>
+<code><img height="50" src="./rabbitmq.svg" alt="rabbitmq"></code>
+
 
 <br></br>
 
